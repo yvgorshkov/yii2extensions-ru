@@ -6,5 +6,4 @@
 
 ## Каркасы приложений
 [yii2-app-basic](https://github.com/yiisoft/yii2-app-basic) - Официальный базовый
-
 [yii2-app-advanced](https://github.com/yiisoft/yii2-app-advanced) - Официальный расширенный
