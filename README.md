@@ -7,3 +7,6 @@
 ## Каркасы приложений
 * [yii2-app-basic](https://github.com/yiisoft/yii2-app-basic) - Официальный базовый
 * [yii2-app-advanced](https://github.com/yiisoft/yii2-app-advanced) - Официальный расширенный
+* [base](https://github.com/yii2mod/base) - Базовый шаблон с дополнительным функционалом: управлением пользователями, RBAC, CMS, cron и redis
+* [yii2-app-template](https://github.com/2amigos/yii2-app-template) - Базовый шаблон с настройками приложения в ConfigKit
+* [yii2-app-usuario-template](https://github.com/2amigos/yii2-app-usuario-template) - Базовый шаблон с настройками в ConfigKit и управлением пользователями в Usuario
